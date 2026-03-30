@@ -39,10 +39,10 @@ Um app de **pré-pedido e reserva de itens**, onde o aluno:
 
 | Nome Completo | RM |
 |---|---|
-| [Nome do Integrante 1] | RM000000 |
-| [Nome do Integrante 2] | RM000000 |
-| [Nome do Integrante 3] | RM000000 |
-| [Nome do Integrante 4] | RM000000 |
+NOME: Lorenzo Hayashi Mangini | RM: 554901
+NOME: Milton Cezar Bacanieski | RM: 555206
+NOME: Vitor Bebiano Mulford | RM: 555026
+NOME: Victório Maia Bastelli | RM: 554723
 
 ---
 
